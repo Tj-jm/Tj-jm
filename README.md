@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Working on a neuro-symbolic learning system blending and an AI/ML modular system that streamlines literature review with a reproducible benchmarking environment <br>👯 I’m looking to collaborate on LLM application design, EdTech platforms, reproducible ML evaluation/benchmarking, and scientific tooling for researchers<br>🌱Studying AI/ML research domains<br>💬 Ask me about designing AI/ML architectures, developing end-to-end Full-Stack systems, or bridging theory and implementation in Physics and Mathematics<br>⚡ I built Bangladesh’s first full-fledged EdTech platform (HSC-Dojo) during the pandemic. Several projects are under NDA.
+🔭Working on a neuro-symbolic learning system blending and an AI/ML modular system that streamlines literature review with a reproducible benchmarking environment <br>👯 I’m looking to collaborate on LLM application design, EdTech platforms, reproducible ML evaluation/benchmarking, and scientific tooling for researchers<br>🌱Studying AI/ML research domains<br>💬 Ask me about designing AI/ML architectures, developing end-to-end Full-Stack systems, or bridging theory and implementation in Physics and Mathematics<br>⚡ Fun fact I built Bangladesh’s first full-fledged EdTech platform (HSC-Dojo) during the pandemic. Several projects are under NDA.
 
 
 # 💻 Tech Stack:
